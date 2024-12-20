@@ -1,4 +1,4 @@
-<h1>Rock, Paper, Scissors Game - Interactive C++ Project</h1>
+<h1>Rock, Paper, Scissors Game - C++ Project</h1>
 
 <h2>Description</h2>
 This project is a game built in C++ that allows the user to play a classic game of Rock, Paper, Scissors against the computer. The game includes three rounds, with real-time results displayed for each round. After three rounds, the program displays the overall results and offers the user the option for a rematch. Key features include input validation, randomized computer choices, and a user-friendly experience.<br />
