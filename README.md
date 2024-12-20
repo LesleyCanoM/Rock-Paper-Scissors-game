@@ -39,12 +39,3 @@ Game session ends with a thank-you message: <br/>
 <img src="https://imgur.com/m475mIU.png" height="80%" width="80%" alt="End of Game"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
